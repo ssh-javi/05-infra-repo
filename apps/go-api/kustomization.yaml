@@ -8,8 +8,4 @@ resources:
 images:
   - name: index.docker.io/sshjavi/go-devsecops-api
     newName: index.docker.io/sshjavi/go-devsecops-api
-<<<<<<< HEAD
-    newTag: 108397074efbfc4bb948f9b56ff378cfd2ef3155
-=======
     newTag: latest
->>>>>>> d66bba9 (infra: agregar anotaciones de prometheus y componente service)
