@@ -5,4 +5,4 @@ resources:
 images:
   - name: index.docker.io/sshjavi/go-devsecops-api
     newName: index.docker.io/sshjavi/go-devsecops-api
-    newTag: b29abe2cb91d479212cb3447c8fb426a543f3054
+    newTag: b52587f86564294de67e9edf774925939d255de4
